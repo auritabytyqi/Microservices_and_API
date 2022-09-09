@@ -3,7 +3,7 @@ package restaurants
 import (
 	"net/http"
 
-	storage "MS_API/database"
+	storage "Microservices_and_API/database"
 	"log"
 
 	"github.com/labstack/echo/v4"
