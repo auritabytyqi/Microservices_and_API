@@ -1,6 +1,6 @@
 package food_api
 
-import restaurants "MS_API/restaurants_api"
+import restaurants "Microservices_and_API/restaurants_api"
 
 type Food struct {
 	Id             string                 `json:"id"`
