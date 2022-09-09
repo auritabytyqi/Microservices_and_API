@@ -1,8 +1,8 @@
 package food_api
 
 import (
-	storage "MS_API/database"
-	restaurants "MS_API/restaurants_api"
+	storage "Microservices_and_API/database"
+	restaurants "Microservices_and_API/restaurants_api"
 	"log"
 	"net/http"
 
