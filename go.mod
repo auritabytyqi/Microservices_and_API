@@ -1,4 +1,4 @@
-module MS_API
+module Microservices_and_API
 
 go 1.19
 
